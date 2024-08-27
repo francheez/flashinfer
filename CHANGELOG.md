@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/flashinfer-ai/flashinfer/compare/v0.1.6...v0.2.0) (2024-08-27)
+
+
+### Features
+
+* add gemma_rmsnorm and gemma_fused_add_rmsnorm ([#477](https://github.com/flashinfer-ai/flashinfer/issues/477)) ([1a6b17e](https://github.com/flashinfer-ai/flashinfer/commit/1a6b17e2b78fc811d50030b9326a4d01f1ff956f))
+
+
+### Bug Fixes
+
+* compatible with torch 2.2 ([#478](https://github.com/flashinfer-ai/flashinfer/issues/478)) ([ac41d1b](https://github.com/flashinfer-ai/flashinfer/commit/ac41d1bdc72ed4614c9eafb8644d45b234260005))
+
 ## [0.1.6](https://github.com/flashinfer-ai/flashinfer/compare/v0.1.5...v0.1.6) (2024-08-27)
 
 ### SM75 Support
